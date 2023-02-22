@@ -37,3 +37,5 @@ Moonzer was made for educational purposes, there for all consequences caused by 
 
 # Other
 🟣NOT DETECTED BY WINDOWS DEFENDER AND SOME OTHER ANTI VIRUSES
+
+🟣Anti-debug
