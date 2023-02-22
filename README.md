@@ -6,11 +6,17 @@ Moonzer was made for educational purposes, there for all consequences caused by 
 
 # Feautres | Roblox
 🟢Grabs Cookie from (Edge, Opera, Chrome, and some other browsers.)
+
 🟢Sends Robux Balance to webhook
+
 🟢Sends Premium Status to webhook
+
 🟢Sends Roblox Username to webhook
+
 🟢Sends RAP to webhook
+
 🟢Sends Creation date to webhook
+
 🟢Sends Account age to webhook
 
 # Feautres | IP
