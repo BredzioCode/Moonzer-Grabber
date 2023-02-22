@@ -18,7 +18,7 @@ Moonzer was made for educational purposes, there for all consequences caused by 
 
 # Feautres | Discord
 🟢Sends Discord Token to webhook
-#🟢Sends Discord info to webhook such as:
+🟢Sends Discord info to webhook such as:
 - Nitro
 - Badges
 - Billing
